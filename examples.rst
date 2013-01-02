@@ -9,3 +9,5 @@ Quick Example
 [1, 2, 'spam']
 >>> print(G.edges())
 [(1, 2)]
+
+See more `simple and complicated examples <http://networkx.github.com/documentation/latest/examples/>`_.
