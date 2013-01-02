@@ -1,0 +1,10 @@
+_build
+gh-pages
+sphinxext
+
+*.pdf
+*.ppt
+*.odp
+
+*~
+.build/*
