@@ -13,4 +13,9 @@ Full Documentation Versions
 
 * `Latest <http://networkx.github.com/documentation/latest/>`_
 * `Development <http://networkx.github.com/documentation/development/>`_
-* `Archive <http://networkx.lanl.gov/archive/>`_
+
+Archived Docuemntation
+----------------------
+
+* `NetworkX-1.7 <http://networkx.github.com/documentation/networkx-1.7/>`_
+* `Older verions <http://networkx.lanl.gov/archive/>`_
