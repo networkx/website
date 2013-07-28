@@ -14,7 +14,7 @@ Full Documentation Versions
 * `Latest <http://networkx.github.com/documentation/latest/>`_
 * `Development <http://networkx.github.com/documentation/development/>`_
 
-Archived Docuemntation
+Archived Documentation
 ----------------------
 
 * `NetworkX-1.7 <http://networkx.github.com/documentation/networkx-1.7/>`_
