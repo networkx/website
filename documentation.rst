@@ -17,5 +17,6 @@ Full Documentation Versions
 Archived Documentation
 ----------------------
 
+* `NetworkX-1.8 <http://networkx.github.com/documentation/networkx-1.8/>`_
 * `NetworkX-1.7 <http://networkx.github.com/documentation/networkx-1.7/>`_
-* `Older verions <http://networkx.lanl.gov/archive/>`_
+* `Older verisons <http://networkx.lanl.gov/archive/>`_
