@@ -5,7 +5,7 @@ Documentation
 If you are new to NetworkX take a look at the
 `tutorial <http://networkx.github.com/documentation/latest/tutorial/>`_.
 
-The `examples <http://networkx.github.com/documentation/latest/examples/>`_
+The `examples <http://networkx.github.com/documentation/networkx-1.9/examples/>`_
 show some simple and complicated ways to use NetworkX.
 
 Full Documentation Versions
