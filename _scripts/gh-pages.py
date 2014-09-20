@@ -98,6 +98,7 @@ if __name__ == '__main__':
     try:
         cd(pages_dir)
         status = sh2('git status | head -1')
+        print "STATUS",status
         branch = re.match('\# On branch (.*)$', status).group(1)
         if branch != 'master':
             e = 'On %r, git branch is %r, MUST be "master"' % (pages_dir,
