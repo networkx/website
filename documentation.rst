@@ -5,18 +5,19 @@ Documentation
 If you are new to NetworkX take a look at the
 `tutorial <http://networkx.github.com/documentation/latest/tutorial/>`_.
 
-The `examples <http://networkx.github.com/documentation/networkx-1.9/examples/>`_
+The `examples <http://networkx.github.com/documentation/networkx-1.9.1/examples/>`_
 show some simple and complicated ways to use NetworkX.
 
 Full Documentation Versions
 ---------------------------
 
-* `Latest <http://networkx.github.com/documentation/networkx-1.9/>`_
+* `Latest <http://networkx.github.com/documentation/networkx-1.9.1/>`_
 * `Development <http://networkx.github.com/documentation/development/>`_
 
 Archived Documentation
 ----------------------
 
+* `NetworkX-1.9.1 <http://networkx.github.com/documentation/networkx-1.9.1/>`_
 * `NetworkX-1.9 <http://networkx.github.com/documentation/networkx-1.9/>`_
 * `NetworkX-1.8.1 <http://networkx.github.com/documentation/networkx-1.8.1/>`_
 * `NetworkX-1.8 <http://networkx.github.com/documentation/networkx-1.8/>`_
