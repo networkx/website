@@ -18,7 +18,7 @@ Documentation for NetworkX is hosted on `Read the Docs <http://readthedocs.org>`
 
 Archived Documentation
 ----------------------
-Documentation from versions from to Networkx 1.1` are avaiable at the following links:
+Documentation from versions from to Networkx 1.10 are avaiable at the following links:
 
 * `NetworkX 1.9.1 <http://networkx.github.io/documentation/networkx-1.9.1/>`_
 * `NetworkX 1.9 <http://networkx.github.io/documentation/networkx-1.9/>`_
