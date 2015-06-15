@@ -24,5 +24,5 @@ Documentation from versions from to Networkx 1.10 are avaiable at the following 
 * `NetworkX 1.9 <http://networkx.github.io/documentation/networkx-1.9/>`_
 * `NetworkX 1.8.1 <http://networkx.github.io/documentation/networkx-1.8.1/>`_
 * `NetworkX 1.8 <http://networkx.github.io/documentation/networkx-1.8/>`_
-* `NetworkX-1.7 <http://networkx.github.io/documentation/networkx-1.7/>`_
+* `NetworkX 1.7 <http://networkx.github.io/documentation/networkx-1.7/>`_
 * `Older versions <http://networkx.lanl.gov/archive/>`_
