@@ -6,15 +6,15 @@ Source and binary releases
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 http://pypi.python.org/pypi/networkx/
 
-http://networkx.lanl.gov/download/networkx/
+http://github.com/networkx/networkx/
 
 Documentation
 ~~~~~~~~~~~~~
 *PDF*
 
-http://networkx.lanl.gov/networkx_reference.pdf
-http://networkx.lanl.gov/networkx_tutorial.pdf
+http://networkx.github.io/documentation/latest/_downloads/networkx_reference.pdf
+http://networkx.github.io/documentation/latest/_downloads/networkx_tutorial.pdf
 
 *HTML in zip file*
 
-http://networkx.lanl.gov/networkx-documentation.zip
+http://networkx.github.io/documentation/latest/_downloads/networkx-documentation.zip
