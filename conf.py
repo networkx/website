@@ -12,6 +12,7 @@
 # serve to show the default.
 
 import sys, os
+from datetime import date
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -25,7 +26,7 @@ needs_sphinx = '1.0.1'
 
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
-extensions = ['sphinx.ext.doctest', 'sphinx.ext.pngmath', 'sphinx.ext.ifconfig']
+#extensions = ['sphinx.ext.doctest', 'sphinx.ext.pngmath', 'sphinx.ext.ifconfig']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -41,7 +42,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'NetworkX'
-copyright = '2014, NetworkX developer team'
+copyright = '2014-{}, NetworkX developers'.format(date.today().year)
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -91,7 +92,7 @@ pygments_style = 'sphinx'
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'sphinxdoc'
+html_theme = 'alabaster'
 
 
 # Theme options are theme-specific and customize the look and feel of a theme
