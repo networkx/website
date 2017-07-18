@@ -3,11 +3,4 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. This file is unused except for a fake root doc for creating the below files
-
-.. toctree::
-   :hidden:
-
-   documentation
-   download
-   examples
+.. This file is unused 
