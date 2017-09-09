@@ -41,4 +41,4 @@ doctest:
 
 github: html
 	ghp-import -n $(OUTPUTDIR)
-	git push -f git@github.com:networkx/networkx.github.com.git gh-pages:master
+	git push -f git@github.com:networkx/networkx.github.io.git gh-pages:master
