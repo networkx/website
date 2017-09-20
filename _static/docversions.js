@@ -1,4 +1,4 @@
-var versions = ['1.10', '1.9.1', '1.9', '1.8.1', '1.8', '1.7', '1.6', '1.5', '1.4', '1.3', '1.2', '1.1', '1.0.1', '1.0', '0.99', '0.37'];
+var versions = ['2.0', '1.11', '1.10', '1.9.1', '1.9', '1.8.1', '1.8', '1.7', '1.6', '1.5', '1.4', '1.3', '1.2', '1.1', '1.0.1', '1.0', '0.99', '0.37'];
 
 function insert_version_links() {
     for (i = 0; i < versions.length; i++){
@@ -14,8 +14,4 @@ function insert_version_links() {
                         .replace('VERSION', versions[i])
                         .replace('URL', 'https://networkx.github.io/documentation/networkx-' + versions[i]));
     }
-}
-
-function stable_version() {
-    return versions[1];
 }
