@@ -1,3 +1,5 @@
+NetworkX 2.4
+Release date: Oct 2019
 NetworkX 2.3
 Release date: Apr 2019
 NetworkX 2.2
