@@ -699,3 +699,13 @@ nav#breadcrumbs li+li:before {
         display: none;
     }
 }
+
+/* Language switcher */
+select {
+    color: #444;
+    text-decoration: none;
+    background: #fff;
+    border: none;
+    font-family: Georgia, serif;
+    font-size: 17px;
+}
