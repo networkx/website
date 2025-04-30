@@ -1,5 +1,6 @@
 window.addEventListener("DOMContentLoaded", function () {
-  fetch("../languages.json")
+  var current_lang = document.documentElement.lang;
+  fetch("/"+ current_lang + "/languages.json")
     .then((response) => response.json())
     .then((data) => {
       const select = document.getElementById("language-switcher");
