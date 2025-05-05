@@ -1,5 +1,8 @@
 name: Deploy
-on: [push, pull_request]
+on:
+  push:
+    branches:
+      - main
   # schedule:
    # - cron: '0 12 * * FRI'  # Every Fridat at midnight
   # workflow_dispatch:
