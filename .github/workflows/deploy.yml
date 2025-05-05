@@ -4,7 +4,7 @@ on:
     branches:
       - main
   schedule:
-   - cron: '0 12 * * FRI'  # Every Fridat at midnight
+   - cron: '0 0 * * FRI'  # Every Fridat at midnight
   workflow_dispatch:
 jobs:
   clean:
