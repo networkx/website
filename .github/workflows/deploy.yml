@@ -1,8 +1,8 @@
 name: Deploy
-on:
-  schedule:
-   - cron: '0 12 * * FRI'  # Every Fridat at midnight
-  workflow_dispatch:
+on: [push, pull_request]
+  # schedule:
+   # - cron: '0 12 * * FRI'  # Every Fridat at midnight
+  # workflow_dispatch:
 jobs:
   clean:
     runs-on: ubuntu-latest
@@ -20,4 +20,4 @@ jobs:
       - name: Deploy webiste
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: make
+        run: make github
